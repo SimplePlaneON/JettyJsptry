@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ai
+Class-Path: lib/javaee-api-7.0.jar lib/javax.mail-1.5.0.jar lib/activa
+ tion-1.1.jar lib/jetty-6.1.14.jar lib/servlet-api-2.5-6.1.14.jar lib/
+ jetty-util-6.1.14.jar lib/jetty-plus-6.1.14.jar lib/geronimo-spec-jta
+ -1.0.1B-rc4.jar lib/jsp-2.1-6.1.14.jar lib/core-3.1.1.jar lib/ant-1.6
+ .5.jar lib/jsp-api-2.1-6.1.14.jar lib/ant-antlr-1.7.1.jar
+Build-Jdk: 1.8.0_152
+Created-By: Maven Integration for Eclipse
+Main-Class: achmad.rifai.JettyJsptry.App
+
